@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SatoruGui.aternos.me",
+    "ip": "SatoruGui.aternos.me:63033",
     "port": "63033"
   ,
     "version": "1.21.11",
