@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "crativesquadquatro.aternos.me:13996",
-    "port": 13996
+    "ip": "SatoruGui.aternos.me",
+    "port": "63033"
   ,
     "version": "1.21.11",
     "try-creative": false
